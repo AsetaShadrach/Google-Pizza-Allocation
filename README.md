@@ -24,4 +24,4 @@ ___
 
 - A method to increase score could be , using non uniform allocation : Giving 2 member teams until all 2 member teams are over(you'll have more numbers to square)
  
-- Any input on how to reduce the runtime of the 2hour code while maininng the same funtionality is highlly appreciated
+- Any input on how to reduce the runtime of the 2hour code while maintaining the same funtionality is highly appreciated
