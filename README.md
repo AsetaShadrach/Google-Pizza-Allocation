@@ -19,8 +19,9 @@ This is not the most optimal solution with regards to the score method described
 - This one takes a short time ,0.5 seconds , and could be shorter if you opt for the direct code instead of using function calls(0.3 or 0.4 seconds) , but i used fuctions just for neatness
 - You simply allocate the pizzas as they appear on the list from either top to bottom or bottom to top
 - Files : Pizza.py , e py submission file.out
-
+___
+___
 
 - A method to increase score could be , using non uniform allocation : Giving 2 member teams until all 2 member teams are over(you'll have more numbers to square)
-- 
+ 
 - Any input on how to reduce the runtime of the 2hour code while maininng the same funtionality is highlly appreciated
